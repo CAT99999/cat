@@ -1,1 +1,27 @@
 
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+  <title>hi</title>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+	<ul>
+		<li><a href="index.html">home</a></li>
+		<li><a href="index.games">games</a></li>
+		<li><a href="index.about">about</a></li>
+	</ul>
+   <iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/180764952/?autostart=false" frameborder="0" allowfullscreen></iframe>
+      <iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/180665243/?autostart=false" frameborder="0" allowfullscreen></iframe>
+      
+      <iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/181060650/?autostart=false" frameborder="0" allowfullscreen></iframe>
+      <iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/180893898/?autostart=false" frameborder="0" allowfullscreen></iframe>
+     <iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/181466640/?autostart=false" frameborder="0" allowfullscreen></iframe>
+    
+	 <iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/181849538/?autostart=false" frameborder="0" allowfullscreen></iframe>
+    
+<p>if these flash games don't work on your computer click run all plugins this time in the top right corner</p>
+  
