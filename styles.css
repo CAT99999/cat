@@ -9,6 +9,49 @@
   padding-top: 60px;
 }
 
+#animations {
+  background-image: url("https://ssefflorida.com/wp-content/uploads/2017/07/total-solar-elipse-diamondring.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: top;
+  background-size: 100%;
+  padding: 20px;
+  height: 500px;
+  padding-top: 60px;
+}
+
+#more {
+  background-image: url("https://ssefflorida.com/wp-content/uploads/2017/07/total-solar-elipse-diamondring.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: top;
+  background-size: 100%;
+  padding: 20px;
+  height: 500px;
+  padding-top: 60px;
+}
+
+#home {
+  background-image: url("https://ssefflorida.com/wp-content/uploads/2017/07/total-solar-elipse-diamondring.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: top;
+  background-size: 100%;
+  padding: 20px;
+  height: 500px;
+  padding-top: 60px;
+}
+
+#about {
+  background-image: url("https://ssefflorida.com/wp-content/uploads/2017/07/total-solar-elipse-diamondring.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: top;
+  background-size: 100%;
+  padding: 20px;
+  height: 500px;
+  padding-top: 60px;
+}
 body {
     background-color:gray;
 }   
