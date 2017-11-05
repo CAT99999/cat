@@ -3,9 +3,9 @@ body {
     background-color:gray;
 }   
 
-h3 {
+h1 {
     color:lime;
-    padding: 10px;
+    
 }
 
 p {
@@ -18,11 +18,11 @@ ul {
     padding: 10px;
     overflow: hidden;
     background-color: #333;
-    position: fixed;
+  
 }
 
 ul li {
-    float: right;
+    float: left;
 }
 
 ul li a {
