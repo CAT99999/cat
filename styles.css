@@ -1,3 +1,13 @@
+index.html{
+    background-image: url("https://lh6.googleusercontent.com/k6_oHozjh2PlESDbZh0Xi0OTNYY2u-Aoh0PZRjwiAvjtKmKO1UwGjlYkZ-0lK2UZ90eZqKEERIxR2UV7XCZ_hg=w1488-h765-rw");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+    padding: 20px;
+    height: 500px;
+    text-align: center;
+}
+
 body {
     background-color:gray;
 }   
