@@ -53,24 +53,10 @@
   padding-top: 60px;
 }
 body {
-    background-color:gray;
+  background-color:gray;
+  text-align:center;
+  color:lime; 
 }   
-
-h1 {
-    color:lime;
-    text-align: center;
-}
-
-h2 {
-    color:lime;
-    text-align: center;
-}
-
-p {
-    color:lime;
-    text-align: center;
-}
-
         
 
 ul {
