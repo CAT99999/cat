@@ -68,10 +68,12 @@ ul {
   width: 100%;
   left: 0px;
   padding: 10px;
+  position: fixed;
 }
 
 ul li {
   float: left;
+  position: fixed;
 }
 
 ul li a {
