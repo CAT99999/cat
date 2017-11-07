@@ -66,6 +66,8 @@ ul {
     overflow: hidden;
     background-color: #333;
     position: fixed;
+    width: 100%;
+    left: 0px;
 }
 
 ul li {
